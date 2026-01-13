@@ -13,6 +13,3 @@ This is a react application to track your daily tasks and update the status acco
 
 ## Live Demo
 You can view the project at : https://mathangivs22.github.io/react-project/index.html 
-
-## Sample screenshot
-![TodoApp](todoapp/DemoPage.jpg)
